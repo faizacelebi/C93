@@ -1,0 +1,30 @@
+
+  button:hover {
+    opacity: 0.8;
+  }
+  body{
+    background: rgb(178, 172, 235);
+    text-shadow: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:white;
+}
+
+div {
+    width: 300px;
+    border: 15px solid rgb(0, 0, 0);
+    padding: 200px;
+    margin: 20px;
+    background: rgb(0, 0, 0);
+    float:none;
+    border-radius: 15px;
+    text-align: center;
+    box-shadow:rgb(255, 0, 0);
+  }
+  img{
+     width: 700px;
+     height: 700px;
+  }
+
+#text{
+    animation: ease-in-out;
+}
